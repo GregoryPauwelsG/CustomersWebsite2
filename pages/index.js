@@ -11,10 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+        <Header title="Customer's Webiste 2" />
+        <p></p>
+        <embed type="text/html" src="https://testreactapprouter.cfapps.us10.hana.ondemand.com/#/tickets/00163E063FDC1ED487FD43C39DFCEBBE" width="400" height="400"></embed>
+
       </main>
 
       <Footer />
