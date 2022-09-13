@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Customer's Webiste 2" />
         <p></p>
-        <embed type="text/html" src="https://testreactapprouter.cfapps.us10.hana.ondemand.com/#/tickets/Verwerker" width="400" height="400"></embed>
+        <embed type="text/html" src="https://testreactapprouter.cfapps.us10.hana.ondemand.com/#/tickets/Verwerker" width="700" height="400"></embed>
 
       </main>
 
