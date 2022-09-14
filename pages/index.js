@@ -15,7 +15,9 @@ export default function Home() {
         <p>Website deployed to Netlify. </p>
         <p>React app is loaded on this page showing the first 5 objects with a Category equal to 'Verwerker' </p>
         <embed type="text/html" src="https://testreactapprouter.cfapps.us10.hana.ondemand.com/#/tickets/Verwerker" width="700" height="400"></embed>
-
+        <a href="javascript:void(0);" NAME="Error Handling"
+        title="ZeroDivisionError handling"
+        onClick=window.open("window-child.html","Ratting","width=550,height=170,left=150,top=200,toolbar=0,status=0,");>Click here to open the child window</a>
       </main>
 
       <Footer />
