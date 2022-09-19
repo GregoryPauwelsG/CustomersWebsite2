@@ -15,7 +15,7 @@ export default function Home() {
          <h1 className='display-4'>Test Header</h1>
         <p>Website deployed to Netlify. </p>
         <p>React app is loaded on this page showing the first 5 objects with a Category equal to 'Verwerker' </p>
-        <embed type="text/html" src="https://testreactapprouter.cfapps.us10.hana.ondemand.com/#/tickets/Verwerker" width="700" height="400"></embed>
+        <embed type="text/html" src="https://testreactapprouter.cfapps.us10.hana.ondemand.com/#/tickets/Verwerker/glittering-platypus-6e06cd.netlify.app\_next\static\css\3dad7f4af289e3f8.css" width="700" height="400"></embed>
       </main>
 
       <Footer />
