@@ -27,6 +27,10 @@ code {
   font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;
 }
 
+h1 {
+  color:  green;
+}
+
 .container {
   height: 100vh;
   display: flex;
